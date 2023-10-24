@@ -1,0 +1,1 @@
+# 3-bit-upcounter-using-verilog-code-
