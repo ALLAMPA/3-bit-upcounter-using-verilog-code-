@@ -1,1 +1,1 @@
-# 3-bit-upcounter-using-verilog-code-
+RTL-CODING-VERILOG
